@@ -1,2 +1,2 @@
 # forecastingCollaborativeAnalysis
-Time series analysis of the Forecasting Collaborative project
+R code for the ARIMA models for the Forecasting Collaborative project
